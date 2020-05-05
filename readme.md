@@ -8,6 +8,7 @@ first:
     yarn
 
 Now, to get this working:
+
     cd /some-directory
     git clone https://github.com/fkunecke/drawer-test
     cd drawer-test
